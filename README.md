@@ -6,7 +6,7 @@
 
 Planilha que ajuda qualquer pessoa a **simular investimentos em Fundos Imobiliários**, respondendo de forma automática às perguntas mais comuns: *quanto investir por mês, por quanto tempo, quanto vou acumular e quanto vou receber de dividendos*.
 
-Projeto desenvolvido para o desafio **"Criando uma Ferramenta de Controle de Investimentos com Excel"** da [DIO](https://www.dio.me/), na trilha **Santander Excel 2026**.
+Projeto desenvolvido para o desafio **"Criando uma Ferramenta de Controle de Investimentos com Excel"** da [DIO](https://www.dio.me/), na trilha **Bootcamp Santander Excel com IA e Claude 2026**.
 
 📥 **[Baixar a planilha (Simulador_Investimentos_FIIs.xlsx)](./Simulador_Investimentos_FIIs.xlsx)**
 
